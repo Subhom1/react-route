@@ -26,6 +26,7 @@ function App() {
 const Home = () => (
   <div>
     <h1 className="text-center">Home Page</h1>
+    <p>Go to Shop -->> </p>
   </div>
 );
 

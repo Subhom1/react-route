@@ -18,8 +18,8 @@ function Item({ match }) {
     };
 
     return (
-        <div>
-            <h1 className="text-center">{item.name}</h1>
+        <div className="justify-content-center d-flex">
+            <h1 className="text-center mt-5">{item.name}</h1>
             <img src={item.images.transparent} alt="" />
         </div>
     );
