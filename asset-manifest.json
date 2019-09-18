@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Subhom1/react-route/static/css/main.3c929451.chunk.css",
-    "main.js": "/Subhom1/react-route/static/js/main.2752bcf8.chunk.js",
-    "main.js.map": "/Subhom1/react-route/static/js/main.2752bcf8.chunk.js.map",
-    "runtime~main.js": "/Subhom1/react-route/static/js/runtime~main.abb8e3dc.js",
-    "runtime~main.js.map": "/Subhom1/react-route/static/js/runtime~main.abb8e3dc.js.map",
-    "static/js/2.2a445a01.chunk.js": "/Subhom1/react-route/static/js/2.2a445a01.chunk.js",
-    "static/js/2.2a445a01.chunk.js.map": "/Subhom1/react-route/static/js/2.2a445a01.chunk.js.map",
-    "index.html": "/Subhom1/react-route/index.html",
-    "precache-manifest.249e65ee56bb3793a3e9eca94def85fd.js": "/Subhom1/react-route/precache-manifest.249e65ee56bb3793a3e9eca94def85fd.js",
-    "service-worker.js": "/Subhom1/react-route/service-worker.js",
-    "static/css/main.3c929451.chunk.css.map": "/Subhom1/react-route/static/css/main.3c929451.chunk.css.map"
+    "main.css": "/react-route/static/css/main.3c929451.chunk.css",
+    "main.js": "/react-route/static/js/main.4e0febac.chunk.js",
+    "main.js.map": "/react-route/static/js/main.4e0febac.chunk.js.map",
+    "runtime~main.js": "/react-route/static/js/runtime~main.3729d66d.js",
+    "runtime~main.js.map": "/react-route/static/js/runtime~main.3729d66d.js.map",
+    "static/js/2.2a445a01.chunk.js": "/react-route/static/js/2.2a445a01.chunk.js",
+    "static/js/2.2a445a01.chunk.js.map": "/react-route/static/js/2.2a445a01.chunk.js.map",
+    "index.html": "/react-route/index.html",
+    "precache-manifest.2be453bc852555c5d2535ccf29f59497.js": "/react-route/precache-manifest.2be453bc852555c5d2535ccf29f59497.js",
+    "service-worker.js": "/react-route/service-worker.js",
+    "static/css/main.3c929451.chunk.css.map": "/react-route/static/css/main.3c929451.chunk.css.map"
   }
 }
