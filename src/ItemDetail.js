@@ -20,7 +20,7 @@ function Item({ match }) {
     return (
         <div className="itemDetails">
             <h1 className="text-center mt-5">{item.name}</h1>
-            <img src={item.images.transparent} alt="" />
+            <img className="mt-3" src={item.images.transparent} alt="" />
         </div>
     );
 }
